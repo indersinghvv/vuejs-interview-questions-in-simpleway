@@ -257,7 +257,7 @@ List of 300 VueJS Interview Questions
    Lifecycle hooks are pre-defined methods that get executed in a certain order, starting from the initialization of the Vue instance to its destruction.
    
     Lifecycle hooks are a window into how the library you’re using works behind-the-scenes. By using these hooks, you will know when your component is created, added to the DOM, updated, or destroyed. Let's look at lifecycle diagram before going to each lifecycle hook in detail,
-https://www.educative.io/answers/what-are-lifecycle-hooks-in-vue-js
+<a href="https://www.educative.io/answers/what-are-lifecycle-hooks-in-vue-js" >https://www.educative.io/answers/what-are-lifecycle-hooks-in-vue-js</a>
     <img src="https://github.com/sudheerj/vuejs-interview-questions/blob/master/images/lifecycle.png" width="400" height="800">
 
     1. **Creation(Initialization):**
